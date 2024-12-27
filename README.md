@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arman9919
 - 👀 I’m interested in Software Engineering.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Andorid Development and DSA.
 - 💞️ I’m looking to collaborate on project.
 - 📫 How to reach me ...
 
